@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.a5d1ebb2.css",
-    "main.js": "/portfolio/static/js/main.52df37fd.js",
+    "main.js": "/portfolio/static/js/main.b56568d0.js",
     "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.b6138dd29b899ef46fc3.jpg",
     "static/media/services-bg.jpg": "/portfolio/static/media/services-bg.fa3c5f96eec611eeac61.jpg",
     "static/media/vegan-store2.jpg": "/portfolio/static/media/vegan-store2.212354f02c97f3849b99.jpg",
     "static/media/roll-the-dice2.jpg": "/portfolio/static/media/roll-the-dice2.c8a178449da07dcfdcce.jpg",
     "static/media/profile-pic.jpg": "/portfolio/static/media/profile-pic.fa1135680880dad2306c.jpg",
-    "static/media/Belloula_Ahmed_CV.pdf": "/portfolio/static/media/Belloula_Ahmed_CV.e949d574438b9a5298a8.pdf",
+    "static/media/Belloula_Ahmed_CV.pdf": "/portfolio/static/media/Belloula_Ahmed_CV.007df2a62798adf95977.pdf",
     "index.html": "/portfolio/index.html",
     "main.a5d1ebb2.css.map": "/portfolio/static/css/main.a5d1ebb2.css.map",
-    "main.52df37fd.js.map": "/portfolio/static/js/main.52df37fd.js.map"
+    "main.b56568d0.js.map": "/portfolio/static/js/main.b56568d0.js.map"
   },
   "entrypoints": [
     "static/css/main.a5d1ebb2.css",
-    "static/js/main.52df37fd.js"
+    "static/js/main.b56568d0.js"
   ]
 }
