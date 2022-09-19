@@ -15,12 +15,12 @@ const Contact = () => {
         emailjs.sendForm('service_l1sewu2', 'template_rsz51h2', e.target, 'jv5AQfPht29K6kqFV')
         .then(res=>{
             setSubmissionMsg('ReSUBMIT')
-            alert("Your email was sent succuessfully.")
+            // alert("Your email was sent succuessfully.")
             setIsSumbitted(true);
         })
         .catch(err=>{
             setSubmissionMsg("Try Again")
-            alert("Sorry, we have some problems! please try again later.");
+            // alert("Sorry, we have some problems! please try again later.");
         }
         )
     }
